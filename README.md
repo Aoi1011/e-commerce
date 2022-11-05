@@ -1,6 +1,18 @@
 # EC website
+<img width="960" alt="image" src="https://cyfuture.com/blog/ojycekam/2021/05/Key-factors-in-building-ecommerce-websites.jpg">
 
 ## Overview
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/62386689/190846301-a2dd666b-7615-4901-bb2a-f78c83d8be8f.png">
+* Build Ecommerce Website by using Asp.Net Core MVC
 
-Template for e-commerce website
+## Stack
+* .NET 6.0
+* ASP.NET Core
+* Postgres
+
+
+## References
+* https://www.youtube.com/watch?v=R25Edio81AU
+* https://www.youtube.com/watch?v=tT3-AghFEV8
+* https://www.youtube.com/playlist?list=PL2Q8rFbm-4ruTcZY39MNOsEu4p76HQ5VX
+
+
